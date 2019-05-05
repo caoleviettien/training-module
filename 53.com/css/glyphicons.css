@@ -1,5 +1,6 @@
 .glyphicons {
   background: #2A3F54;
+  margin: auto -15px !important;
 }
 .glyphicons .left_col {
   border: none;
@@ -190,6 +191,7 @@
 }
 .glyphicons .right_col {
   background: #f5f5f5;
+  padding: 0 40px 0 20px;
 }
 .glyphicons .right_col .top-nav {
   margin-left: -15px;
@@ -462,6 +464,17 @@
 .glyphicons #back-to-top:hover {
   border: 1px solid #ffa789;
   background: #ff6734;
+}
+.glyphicons .sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding-left: 10px;
+  width: 350px;
+  background: #fff;
+}
+.glyphicons .contents {
+  padding-right: 8px !important;
 }
 .glyphicons.toggled {
   margin-left: -180px;

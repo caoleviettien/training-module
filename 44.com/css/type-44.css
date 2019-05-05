@@ -28,6 +28,7 @@
   background-color: #0070a0;
   border: 1px solid #0070a0;
   color: #fff;
+  opacity: 0.8;
   padding: 10px 20px;
   vertical-align: middle;
   font-size: 11px;
@@ -37,6 +38,9 @@
   -moz-transition: ease-out 0.3s;
   -o-transition: ease-out 0.3s;
   transition: ease-out 0.3s;
+}
+.type-44 .footer-email-submit:hover {
+  opacity: 1;
 }
 .type-44 .module-ct {
   padding: 0;
@@ -227,6 +231,10 @@
 }
 .type-44 .t3-logo-light {
   background-image: url("../images/t3logo-big-light.png");
+  opacity: .8;
+}
+.type-44 .t3-logo-light:hover {
+  opacity: 1;
 }
 .type-44 .t3-logo {
   width: 182px;

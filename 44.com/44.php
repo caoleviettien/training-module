@@ -56,7 +56,7 @@
                             <small>Copyright © 2016 JoomlArt Demo Site. All Rights Reserved. Powered by <a href="http://www.joomlart.com/joomla/templates/ja-fubix" title="JA Fubix" rel="nofollow">JA Fubix</a> - Designed by JoomlArt.com.</small>
                             <br>
                             <small><a href="http://www.joomla.org">Joomla!</a> is Free Software released under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License.</a></small>
-                        </div>
+                        </div>  
                         <div class="poweredby">
                             <a class="t3-logo t3-logo-light" target="_blank" title="Powered By T3 Framework" href="http://t3-framework.org">Powered by<strong>T3 Framework</strong></a>
                         </div>
@@ -151,23 +151,23 @@
                     </h3>
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     <div class="social-icons-wrap">
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/facebook.png" alt="facebook"></a>
+                          <a href="#"><img class="social-icon" src="images/facebook.png" alt="facebook"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/googleplus.png" alt="googleplus"></a>
+                          <a href="#"><img class="social-icon" src="images/googleplus.png" alt="googleplus"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/instagram.png" alt="instagram"></a>
+                          <a href="#"><img class="social-icon" src="images/instagram.png" alt="instagram"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/linkedin.png" alt="linkedin"></a>
+                          <a href="#"><img class="social-icon" src="images/linkedin.png" alt="linkedin"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/pinterest.png" alt="pinterest"></a>
+                          <a href="#"><img class="social-icon" src="images/pinterest.png" alt="pinterest"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/rss.png" alt="rss"></a>
+                          <a href="#"><img class="social-icon" src="images/rss.png" alt="rss"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/skype.png" alt="skype"></a>
+                          <a href="#"><img class="social-icon" src="images/skype.png" alt="skype"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/twitter.png" alt="twitter"></a>
+                          <a href="#"><img class="social-icon" src="images/twitter.png" alt="twitter"></a>
 
-                          <a href="#"><img class="social-icon" src="http://cyberspaceart.com/wp-content/themes/topclub/img/socials/youtube.png" alt="youtube"></a>                        
+                          <a href="#"><img class="social-icon" src="images/youtube.png" alt="youtube"></a>                        
                           
                     </div>
                 </div>

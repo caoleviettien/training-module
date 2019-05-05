@@ -9,7 +9,7 @@
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="css/swiper.min.css" rel="stylesheet" type="text/css" />
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    
     <script src="js/swiper.min.js" type="text/javascript"></script>
 
     <?php
@@ -23,15 +23,26 @@
 </head>
 <body>
     <body>
-        <?php include 'demo.php'; ?>
+        <?php include '16-content.php'; ?>
     </body>
-   <script>
-        var swiper = $('.reviews-section');
-        $swiper.each(function(){
-            var $this = $(this);
-            $this.swiper(
-              //options here
-            );
-        })
-  </script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+       <script>
+            var galleryThumbs = new Swiper('.gallery-thumbs', {
+              spaceBetween: 3,
+              slidesPerView: 3,
+              freeMode: true,
+              watchSlidesVisibility: true,
+              watchSlidesProgress: true,
+            });
+            var galleryTop = new Swiper('.gallery-top', {
+              spaceBetween: 3,
+              navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+              },
+              thumbs: {
+                swiper: galleryThumbs
+              }
+            });
+      </script>
 </html>
